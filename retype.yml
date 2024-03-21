@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: https://knowledgehub.amcow-online.org/
+branding:
+  title: AMCOW Knowledge Hub
+  label: Docs
+links:
+- text: Getting Started
+  link: https://retype.com/guides/getting-started/
+footer:
+  copyright: "&copy; CODE KRAFT Copyright {{ year }}. All rights reserved."
