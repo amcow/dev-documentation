@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://knowledgehub.amcow-online.org/sitemap.xml.gz
+Sitemap: /sitemap.xml.gz
