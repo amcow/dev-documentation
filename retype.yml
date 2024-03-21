@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: https://knowledgehub.amcow-online.org/
+# url: https://knowledgehub.amcow-online.org/
 branding:
   title: AMCOW Knowledge Hub
   label: Docs
