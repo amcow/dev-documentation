@@ -8,4 +8,4 @@ The menu is dynamic, with fields and URLs stored in the database. However, it wi
 
 The cache is updated through the menu manager when the menu is changed.
 
-This existing hub has an implementation of this dynamic menu; We will migrate and improve on it.
+The existing hub has an implementation of this dynamic menu; We will migrate and improve on it.
