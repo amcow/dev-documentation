@@ -11,3 +11,12 @@ icon: database
 - A form will be developed within the week to be shared with our partners.
 - There exist a collected data of water and sanitation resource partners
 - Information will be presented infographics
+
+!!!primary Primary
+The sector database will have a map and summary on the landing (as currently have). 
+
+When a user clicks on the view as a list (we can rename this), they should taken a page that will display the information with a toggle to switch between grid or map views.
+
+The page should have filter to sort  by country/sector/company/individuals
+
+!!!
