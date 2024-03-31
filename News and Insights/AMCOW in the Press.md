@@ -4,8 +4,6 @@ order: 897
 icon: note
 ---
 
-****AMCOW in the Press.
-
 This section will present mentions of AMCOW in the press, print media, online, or radio. This will usually be published in a newspaper, print, or online.
 
 These could be in the following form:
@@ -14,21 +12,26 @@ These could be in the following form:
 - We can have a combination of both links, if available, and a scanned copy.
 
 
-SDG carried areport about AMCOW: https://sdg.iisd.org/news/amcow-takes-stock-of-harmonized-monitoring-on-water-and-sanitation-targets/
+**SDG carried areport about AMCOW: 
+
+Link: https://sdg.iisd.org/news/amcow-takes-stock-of-harmonized-monitoring-on-water-and-sanitation-targets/
 
 This entry on this section will be:
 
-Title: AMCOW Takes Stock of Harmonized Monitoring on Water and Sanitation Targets
-Date: 25 May 2017 
-Link: https://sdg.iisd.org/news/amcow-takes-stock-of-harmonized-monitoring-on-water-and-sanitation-targets/
-
+Item | Value
+--- | ---
+Title | AMCOW Takes Stock of Harmonized Monitoring on Water and Sanitation Targets
+Date | 25 May 2017 
+Link | https://sdg.iisd.org/news/amcow-takes-stock-of-harmonized-monitoring-on-water-and-sanitation-targets/
 If it was printed on punch newspaper for example, ESSPIN staff will scan the news paper and upload.
 
 So it becomes:
 
-Title: AMCOW Takes Stock of Harmonized Monitoring on Water and Sanitation Targets
-Date: March 13, 2013 
-Link: View document
+Item | Value
+--- | ---
+Title | AMCOW Takes Stock of Harmonized Monitoring on Water and Sanitation Targets
+Date | 25 May 2017 
+Link | View document
 
 
 On the Admin there will be  simple form to pupolate this:
