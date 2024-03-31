@@ -16,4 +16,10 @@ We should have the share feature that we talked about i.e share on social media,
 
 We can also have related reports. If someone is searching for groundwater in Nigeria, you should also display related reports below that resource. 
 
-Needless to say, we should also have a back button if the person wants to move back to the previous reports 
+Needless to say, we should also have a back button if the person wants to move back to the previous default report page.
+
+!!!primary How will the resource section be updated?
+Two primaray ways to update the database: direct upload through the admin panel and partners API integration
+
+The detail approach will be in the admin section of this documentation
+!!!
