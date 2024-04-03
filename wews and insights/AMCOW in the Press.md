@@ -23,6 +23,8 @@ Item | Value
 Title | AMCOW Takes Stock of Harmonized Monitoring on Water and Sanitation Targets
 Date | 25 May 2017 
 Link | https://sdg.iisd.org/news/amcow-takes-stock-of-harmonized-monitoring-on-water-and-sanitation-targets/
+
+
 If it was printed on punch newspaper for example, ESSPIN staff will scan the news paper and upload.
 
 So it becomes:
