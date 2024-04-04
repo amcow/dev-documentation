@@ -4,11 +4,11 @@ order: 795
 icon: key
 ---
 
-***Video Listing
+## Video Listing
 
 This section will showcase a grid layout featuring various videos. Upon clicking on a video, users will be redirected to the video details page.
 
-***Video detail page
+## Video detail page
 
 This page will display the selected video in its entirety, along with its title, summary, and additional metadata such as date published, author, location, event, and country. These details will be further refined in collaboration with the AMCOW team.
 
