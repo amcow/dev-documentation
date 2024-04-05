@@ -6,11 +6,11 @@ icon: note
 
 The main dashboard should allow administrators intuitive navigation and view the summaries of activities happening within the system.
 
-***Navigation
+### Navigation
 
 The primary dashboard should offer administrators intuitive navigation through a left-side menu structure, complete with collapsible sub-menus. This design choice maximizes screen real estate, facilitating a broader view for enhanced usability.
 
-*** Main Content
+### Main Content
 
 The main section of the dashboard provides succinct statistical summaries of vital resources, news updates, and user activities. 
 

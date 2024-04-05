@@ -12,7 +12,7 @@ These could be in the following form:
 - We can have a combination of both links, if available, and a scanned copy.
 
 
-**SDG carried areport about AMCOW: 
+### SDG carried areport about AMCOW: 
 
 Link: https://sdg.iisd.org/news/amcow-takes-stock-of-harmonized-monitoring-on-water-and-sanitation-targets/
 
