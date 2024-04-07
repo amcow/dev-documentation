@@ -1,5 +1,5 @@
 ---
-label: Semantic Search
+label: Semantic Search (Coding)
 order: 796
 icon: key
 ---
