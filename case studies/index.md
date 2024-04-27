@@ -1,14 +1,14 @@
 ---
-label: News and Insights
+label: Case Studies
 order: 899
 icon: note
 ---
 
-### News Listing
+### Case Listing
 
-This section will showcase a grid layout featuring various news items. Upon clicking on a news, users will be redirected to the news details page.
+This section will showcase a grid layout featuring various case studies items. Upon clicking on a case studies, users will be redirected to the case studies details page.
 
-### News detail page
+### Case Studies detail page
 
 This page will display the selected item in its entirety, along with its title, summary, and additional metadata such as date published, author, location, event, and country. These details will be further refined in collaboration with the AMCOW team.
 
