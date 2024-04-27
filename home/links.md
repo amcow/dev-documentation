@@ -1,11 +1,17 @@
 ---
-label: Navigation Menu (Coding)
-order: 995
+label: Linkis(References)
+order: 994
 icon: key
 ---
 
-The menu is dynamic, with fields and URLs stored in the database. However, it will only load the menu from DB once on application startup and subsequently loads from an ETS cache.
+Just links to resources related to this project:
 
-The cache is updated through the menu manager when the menu is changed.
+- [Somalia: No news of rain](https://drive.google.com/drive/folders/1pDJx1Y0aKzxU4079FXLLQXj0-ckc_4jL?usp=sharing)
 
-The existing hub has an implementation of this dynamic menu; We will migrate and improve on it.
+- [Uganda - WASH](https://drive.google.com/drive/folders/1tONPGWLZLW9sFDOmlAO6WIv5Y4Vv5vjB?usp=sharing)
+
+- [Tracka Map](https://www.phctracka.org/performance)
+
+- [Link text](https://website-name.com)
+
+- [Link text](https://website-name.com)
