@@ -30,6 +30,7 @@ icon: key
 - email
 - password_hash
 - account_type
+- more fields ...
 
 ###  profile
 
@@ -38,6 +39,7 @@ icon: key
 - photo
 - bio
 - preference
+- more fields ...
 
 
 ### library (WIP)
@@ -96,6 +98,7 @@ icon: key
 - email
 - subscribed
 - interest
+- more fields ...
 
 ### menu group
 
