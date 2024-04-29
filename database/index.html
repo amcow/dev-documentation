@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.767514378163">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.767712110030">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -11,7 +11,7 @@
     <!-- Primary Meta Tags -->
     <title>Database Design (Coding)</title>
     <meta name="title" content="Database Design (Coding)">
-    <meta name="description" content="USERS">
+    <meta name="description" content="CASE STUDIES">
 
     <!-- Canonical -->
     <link rel="canonical" href="/database/">
@@ -20,21 +20,21 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="/database/">
     <meta property="og:title" content="Database Design (Coding)">
-    <meta property="og:description" content="USERS">
+    <meta property="og:description" content="CASE STUDIES">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="/database/">
     <meta property="twitter:title" content="Database Design (Coding)">
-    <meta property="twitter:description" content="USERS">
+    <meta property="twitter:description" content="CASE STUDIES">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../resources/css/retype.css?v=3.5.0.767514378163" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.5.0.767712110030" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.767514378163" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.767712110030" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.767514378163" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.767712110030" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -169,12 +169,28 @@
         <span>Database Design (Coding)</span>
     </h1>
 </doc-anchor-target>
-<p>USERS</p>
+<p>CASE STUDIES</p>
 <ul>
 <li>username</li>
 <li>email</li>
 <li>password_hash</li>
 <li>account_type</li>
+</ul>
+<p>USERS</p>
+<ul>
+<li>publish_date</li>
+<li>photo</li>
+<li>authour_id</li>
+<li>account_type</li>
+<li>embedding</li>
+<li>title_en (title english)</li>
+<li>content_en</li>
+<li>title_ar  (title arabic)</li>
+<li>content_ar</li>
+<li>title_pt (title portuguese)</li>
+<li>content_pt</li>
+<li>title_fr (title french)</li>
+<li>content_fr</li>
 </ul>
 <p>Profile</p>
 <ul>
@@ -183,6 +199,50 @@
 <li>photo</li>
 <li>bio</li>
 <li>preference</li>
+</ul>
+<p>Library (WIP)</p>
+<ul>
+<li>id</li>
+<li>pages</li>
+<li>view_count</li>
+<li>published_at</li>
+<li>category</li>
+<li>sub_category</li>
+<li>tags</li>
+<li>embedding</li>
+<li>title_ar</li>
+<li>summary_ar</li>
+<li>link_ar</li>
+<li>title_en</li>
+<li>summary_en</li>
+<li>link_en</li>
+<li>title_fr</li>
+<li>summary_fr</li>
+<li>link_fr</li>
+<li>title_pt</li>
+<li>summary_pt</li>
+<li>link_pt</li>
+</ul>
+<p>Categories/Subject (Is there a possibilty of a resources having being in multiple areas)</p>
+<ul>
+<li>id</li>
+<li>name</li>
+</ul>
+<p>sub categogories (Could this be embedded or tags)</p>
+<ul>
+<li>id</li>
+<li>name</li>
+<li>subcategory_id</li>
+</ul>
+<p>Videos</p>
+<ul>
+<li>title</li>
+<li>link</li>
+<li>views</li>
+<li>length</li>
+<li>summary</li>
+<li>embedding</li>
+<li>transcription?</li>
 </ul>
 <p>Subscription</p>
 <ul>
@@ -204,22 +264,6 @@
 <li>parent_id?</li>
 <li>parent_name?</li>
 <li>menu_group_id?</li>
-</ul>
-<p>Commentary (WIP)</p>
-<ul>
-<li>id</li>
-<li>title</li>
-<li>abstract</li>
-<li>body</li>
-<li>slug</li>
-<li>featured</li>
-<li>published</li>
-<li>published_at</li>
-<li>timestamp</li>
-</ul>
-<p>Library (WIP)</p>
-<ul>
-<li>id</li>
 </ul>
 
                                 
