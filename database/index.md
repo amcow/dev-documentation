@@ -7,18 +7,13 @@ icon: key
 
 ## case studies
 
-- username
-- email
-- password_hash
-- account_type
-
-## users
-
+- id
 - publish_date
 - photo
 - authour_id
 - account_type
 - embedding
+- slug
 - title_en (title english)
 - content_en
 - title_ar  (title arabic)
@@ -27,6 +22,13 @@ icon: key
 - content_pt
 - title_fr (title french)
 - content_fr
+
+## users
+
+- username
+- email
+- password_hash
+- account_type
 
 ##  profile
 
@@ -38,6 +40,7 @@ icon: key
 
 
 ## library (WIP)
+
 - id
 - pages
 - view_count
@@ -46,6 +49,7 @@ icon: key
 - sub_category
 - tags
 - embedding
+- slug
 - title_ar
 - summary_ar
 - link_ar
@@ -62,12 +66,14 @@ icon: key
 
 ## categories/subject 
 (Is there a possibilty of a resources having being in multiple areas)
+
 - id
 - name
 
 
 ## sub categogories 
 (Could this be embedded or tags)
+
 - id
 - name
 - subcategory_id
