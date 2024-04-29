@@ -8,12 +8,13 @@ icon: key
 ### case studies
 
 - id
-- publish_date
+- publish_at
 - photo
-- authour_id
+- author_id
 - account_type
 - embedding
 - slug
+- view_count
 - title_en (title english)
 - content_en
 - title_ar  (title arabic)
