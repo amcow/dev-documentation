@@ -5,14 +5,14 @@ icon: key
 ---
 
 
-CASE STUDIES
+## case studies
 
 - username
 - email
 - password_hash
 - account_type
 
-USERS
+## users
 
 - publish_date
 - photo
@@ -28,7 +28,7 @@ USERS
 - title_fr (title french)
 - content_fr
 
-Profile
+##  profile
 
 - firstname
 - last name
@@ -37,7 +37,7 @@ Profile
 - preference
 
 
-Library (WIP)
+## library (WIP)
 - id
 - pages
 - view_count
@@ -60,18 +60,20 @@ Library (WIP)
 - link_pt
 
 
-Categories/Subject (Is there a possibilty of a resources having being in multiple areas)
+## categories/subject 
+(Is there a possibilty of a resources having being in multiple areas)
 - id
 - name
 
 
-sub categogories (Could this be embedded or tags)
+## sub categogories 
+(Could this be embedded or tags)
 - id
 - name
 - subcategory_id
 
 
-Videos
+##  videos
 
 - title
 - link
@@ -82,19 +84,18 @@ Videos
 - transcription?
 
 
-Subscription
+##  subscription
 
 - email
 - subscribed
 - interest
 
-
-menu group
+## menu group
 
 - name
 - status
 
-menu
+## menu
 
 - name
 - url
