@@ -4,14 +4,12 @@ order: 99
 icon: key
 ---
 
-
 ### case studies
 
 - id
 - publish_at
 - photo
 - author_id
-- account_type
 - embedding
 - slug
 - view_count
@@ -23,6 +21,24 @@ icon: key
 - content_pt
 - title_fr (title french)
 - content_fr
+
+
+
+### press
+
+- id
+- publish_at
+- embedding (this can be ignored for now)
+- slug
+- view_count
+- title_en (title english)
+- link_en
+- title_ar  (title arabic)
+- link_ar
+- title_pt (title portuguese)
+- link_pt
+- title_fr (title french)
+- link_fr
 
 ### users
 
