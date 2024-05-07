@@ -92,6 +92,7 @@ icon: key
 
 - id
 - name
+- children? (perhaps we should embed the sub categories as children and use a single table)
 
 
 ### sub categories 

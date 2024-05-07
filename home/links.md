@@ -12,6 +12,11 @@ Just links to resources related to this project:
 
 - [Tracka Map](https://www.phctracka.org/performance)
 
-- [Link text](https://website-name.com)
+- [wind CSS mega menu tutorial](https://www.youtube.com/watch?v=Y7i4ygh1wYw&t=583s)
+
+- [Responsive dropdown navbar with tailwind css and react js | React js and Tailwind css](https://www.youtube.com/watch?v=JEV7WE0UBiQ)
+
+- [Make an Animated Menu like Stripe with React, Tailwind, and AI](https://www.youtube.com/watch?v=gWw-DsSZVrQ)
 
 - [Link text](https://website-name.com)
+
