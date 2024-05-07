@@ -9,18 +9,22 @@ icon: key
 - id
 - publish_at
 - photo
-- author_id
+- author
 - embedding
 - slug
-- view_count
+- views
 - title_en (title english)
 - content_en
+- link_en
 - title_ar  (title arabic)
 - content_ar
+- link_ar
 - title_pt (title portuguese)
 - content_pt
+- link_pt
 - title_fr (title french)
 - content_fr
+- link_fr
 
 
 
@@ -30,7 +34,7 @@ icon: key
 - publish_at
 - embedding (this can be ignored for now)
 - slug
-- view_count
+- views
 - title_en (title english)
 - link_en
 - title_ar  (title arabic)
