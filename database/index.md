@@ -114,6 +114,28 @@ icon: key
 - transcription?
 
 
+###  sector database
+
+- name
+- logo
+- description (about us)
+- catgory (indiividual/company)
+- email
+- website (optional)
+- contact address
+- city
+- country
+- twitter
+- facebook
+- instagram
+- linkedin
+
+###  sector database works
+
+- title
+- description
+- images
+
 ###  subscription
 
 - email
