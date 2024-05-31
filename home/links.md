@@ -20,3 +20,12 @@ Just links to resources related to this project:
 
 - [Link text](https://website-name.com)
 
+### RICH TEXT EDITOR
+
+- [How to use TRIX Editor](https://componentx.co.uk/blog/adding-trix-to-liveview)
+- [Quill](https://quilljs.com/)
+- [TinyMCE](https://www.tiny.cloud/)
+- [How To Integrate WYSIWYG Editor in Elixir/Phoenix application](https://medium.com/aviabird/wysiwyg-editor-integration-in-elixir-phoenix-1ae33c9fc01a)
+
+
+
